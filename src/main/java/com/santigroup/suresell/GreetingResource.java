@@ -1,4 +1,4 @@
-package org.prueba;
+package com.santigroup.suresell;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
